@@ -1,1 +1,1 @@
-C:\Users\ckahrs\source\repos\NAudioUWPApp\NAudioUWPApp\NAudioUWPApp.csproj;x64
+C:\Users\ckahrs\Documents\GitHub\NAudioMicUWPApp\NAudioUWPApp\NAudioUWPApp.csproj;x64

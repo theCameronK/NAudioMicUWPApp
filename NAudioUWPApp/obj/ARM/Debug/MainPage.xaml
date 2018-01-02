@@ -8,8 +8,10 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-        <ProgressBar x:ConnectionId='1' x:Name="progressBar1" HorizontalAlignment="Left" Height="148" Margin="265,96,0,0" VerticalAlignment="Top" Width="936"/>
-        <TextBox x:ConnectionId='2' x:Name="textBox1" HorizontalAlignment="Left" Margin="269,262,0,0" Text="" VerticalAlignment="Top" Height="73" Width="929" IsReadOnly="True"/>
+        <ProgressBar x:ConnectionId='1' x:Name="progressBar1" HorizontalAlignment="Left" Height="148" Margin="265,96,0,0" VerticalAlignment="Top" Width="936" Foreground="Lime" Background="#33000000"/>
+        <ProgressBar x:ConnectionId='2' x:Name="progressBar2" HorizontalAlignment="Left" Height="148" Margin="265,96,0,0" VerticalAlignment="Top" Width="936" Foreground="Yellow" Background="#33000000"/>
+        <ProgressBar x:ConnectionId='3' x:Name="progressBar3" HorizontalAlignment="Left" Height="148" Margin="265,96,0,0" VerticalAlignment="Top" Width="936" Foreground="Red"/>
+        <TextBlock x:ConnectionId='4' x:Name="textBlock1" HorizontalAlignment="Left" Margin="269,262,0,0" Text="" TextWrapping="Wrap" Height="73" Width="929" VerticalAlignment="Top"/>
     </Grid>
 </Page>
 

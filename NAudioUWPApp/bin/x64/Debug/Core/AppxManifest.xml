@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="21b33a6d-ed3a-40da-bb59-a40a69b49479" Publisher="CN=ckahrs" Version="1.0.3.0" ProcessorArchitecture="x64" />
+  <Identity Name="21b33a6d-ed3a-40da-bb59-a40a69b49479" Publisher="CN=ckahrs" Version="1.1.8.0" ProcessorArchitecture="x64" />
   <mp:PhoneIdentity PhoneProductId="21b33a6d-ed3a-40da-bb59-a40a69b49479" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>NAudioUWPApp</DisplayName>

@@ -6,7 +6,7 @@
     <autoResourcePackage qualifier="DXFeatureLevel" />
     <omitSchemaFromResourcePacks />
   </packaging>
-  <index root="\" startIndexAt="C:\Users\ckahrs\source\repos\NAudioUWPApp\NAudioUWPApp\bin\x64\Debug\resources.pri">
+  <index root="\" startIndexAt="C:\Users\ckahrs\Documents\GitHub\NAudioMicUWPApp\NAudioUWPApp\bin\x64\Debug\resources.pri">
     <default>
       <qualifier name="Language" value="en-US" />
       <qualifier name="Contrast" value="standard" />

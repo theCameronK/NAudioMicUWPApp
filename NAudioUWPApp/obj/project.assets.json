@@ -25814,11 +25814,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ckahrs\\source\\repos\\NAudioUWPApp\\NAudioUWPApp\\NAudioUWPApp.csproj",
+      "projectUniqueName": "C:\\Users\\ckahrs\\Documents\\GitHub\\NAudioMicUWPApp\\NAudioUWPApp\\NAudioUWPApp.csproj",
       "projectName": "NAudioUWPApp",
-      "projectPath": "C:\\Users\\ckahrs\\source\\repos\\NAudioUWPApp\\NAudioUWPApp\\NAudioUWPApp.csproj",
+      "projectPath": "C:\\Users\\ckahrs\\Documents\\GitHub\\NAudioMicUWPApp\\NAudioUWPApp\\NAudioUWPApp.csproj",
       "packagesPath": "C:\\Users\\ckahrs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ckahrs\\source\\repos\\NAudioUWPApp\\NAudioUWPApp\\obj\\",
+      "outputPath": "C:\\Users\\ckahrs\\Documents\\GitHub\\NAudioMicUWPApp\\NAudioUWPApp\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

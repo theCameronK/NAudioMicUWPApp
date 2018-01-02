@@ -1,2 +1,2 @@
-MainPackage=C:\Users\ckahrs\source\repos\NAudioUWPApp\NAudioUWPApp\bin\x86\Debug\NAudioUWPApp_1.0.3.0_x86_Debug.appx
-SymbolPackage=C:\Users\ckahrs\source\repos\NAudioUWPApp\NAudioUWPApp\AppPackages\NAudioUWPApp_1.0.3.0_Debug_Test\NAudioUWPApp_1.0.3.0_x86_Debug.appxsym
+MainPackage=C:\Users\ckahrs\Documents\GitHub\NAudioMicUWPApp\NAudioUWPApp\bin\x86\Debug\NAudioUWPApp_1.1.8.0_x86_Debug.appx
+SymbolPackage=C:\Users\ckahrs\Documents\GitHub\NAudioMicUWPApp\NAudioUWPApp\AppPackages\NAudioUWPApp_1.1.8.0_Debug_Test\NAudioUWPApp_1.1.8.0_x86_Debug.appxsym

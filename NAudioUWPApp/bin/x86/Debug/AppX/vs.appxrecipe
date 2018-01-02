@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>21b33a6d-ed3a-40da-bb59-a40a69b49479</PackageIdentityName>
     <PackageIdentityPublisher>CN=ckahrs</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\ckahrs\source\repos\NAudioUWPApp\NAudioUWPApp\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\ckahrs\Documents\GitHub\NAudioMicUWPApp\NAudioUWPApp\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,26 +18,26 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\ckahrs\source\repos\NAudioUWPApp\NAudioUWPApp\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>B97F5ADCF435305DD913DD9733588A73AF5E114F825FEA234E57D8776F31C31F</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>21b33a6d-ed3a-40da-bb59-a40a69b49479_1.0.3.0_x86__47shbzsee3cej</RegisteredPackageMoniker>
+    <LayoutDir>C:\Users\ckahrs\Documents\GitHub\NAudioMicUWPApp\NAudioUWPApp\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>6FC3317D898DF4168A05FD3BB5AAF0390521F56610E11879EF9B6247BE0916B3</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>21b33a6d-ed3a-40da-bb59-a40a69b49479_1.0.7.0_x86__47shbzsee3cej</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>21b33a6d-ed3a-40da-bb59-a40a69b49479_47shbzsee3cej!App</RegisteredUserModeAppID>
     <RegisteredPackageID>21b33a6d-ed3a-40da-bb59-a40a69b49479</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=ckahrs</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.3.0</RegisteredVersion>
+    <RegisteredVersion>1.0.7.0</RegisteredVersion>
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\ckahrs\source\repos\NAudioUWPApp\NAudioUWPApp\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\ckahrs\Documents\GitHub\NAudioMicUWPApp\NAudioUWPApp\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-02T13:29:03.046</Modified>
+      <Modified>2018-01-02T15:56:44.754</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\ckahrs\source\repos\NAudioUWPApp\NAudioUWPApp\bin\x86\Debug\NAudioUWPApp.exe">
+    <AppxPackagedFile Include="C:\Users\ckahrs\Documents\GitHub\NAudioMicUWPApp\NAudioUWPApp\bin\x86\Debug\NAudioUWPApp.exe">
       <PackagePath>entrypoint\NAudioUWPApp.exe</PackagePath>
-      <Modified>2018-01-02T13:29:02.790</Modified>
+      <Modified>2018-01-02T15:56:43.446</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ckahrs\.nuget\packages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -499,60 +499,60 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2016-06-12T03:15:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ckahrs\source\repos\NAudioUWPApp\NAudioUWPApp\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\ckahrs\Documents\GitHub\NAudioMicUWPApp\NAudioUWPApp\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2017-12-19T14:39:01.675</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ckahrs\source\repos\NAudioUWPApp\NAudioUWPApp\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ckahrs\Documents\GitHub\NAudioMicUWPApp\NAudioUWPApp\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2017-12-13T14:56:01.260</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ckahrs\source\repos\NAudioUWPApp\NAudioUWPApp\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ckahrs\Documents\GitHub\NAudioMicUWPApp\NAudioUWPApp\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-12-13T14:56:01.260</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ckahrs\source\repos\NAudioUWPApp\NAudioUWPApp\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ckahrs\Documents\GitHub\NAudioMicUWPApp\NAudioUWPApp\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-12-13T14:56:01.260</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ckahrs\source\repos\NAudioUWPApp\NAudioUWPApp\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ckahrs\Documents\GitHub\NAudioMicUWPApp\NAudioUWPApp\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-12-13T14:56:01.260</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ckahrs\source\repos\NAudioUWPApp\NAudioUWPApp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\ckahrs\Documents\GitHub\NAudioMicUWPApp\NAudioUWPApp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-12-13T14:56:01.260</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ckahrs\source\repos\NAudioUWPApp\NAudioUWPApp\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\ckahrs\Documents\GitHub\NAudioMicUWPApp\NAudioUWPApp\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-12-13T14:56:01.260</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ckahrs\source\repos\NAudioUWPApp\NAudioUWPApp\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ckahrs\Documents\GitHub\NAudioMicUWPApp\NAudioUWPApp\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-12-13T14:56:01.260</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ckahrs\source\repos\NAudioUWPApp\NAudioUWPApp\bin\x86\Debug\NAudioUWPApp.xr.xml">
+    <AppxPackagedFile Include="C:\Users\ckahrs\Documents\GitHub\NAudioMicUWPApp\NAudioUWPApp\bin\x86\Debug\NAudioUWPApp.xr.xml">
       <PackagePath>NAudioUWPApp.xr.xml</PackagePath>
-      <Modified>2017-12-28T14:58:22.004</Modified>
+      <Modified>2018-01-02T15:56:43.284</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2017-09-28T22:28:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ckahrs\source\repos\NAudioUWPApp\NAudioUWPApp\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\ckahrs\Documents\GitHub\NAudioMicUWPApp\NAudioUWPApp\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-28T15:03:01.418</Modified>
+      <Modified>2018-01-02T15:56:44.429</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ckahrs\source\repos\NAudioUWPApp\NAudioUWPApp\bin\x86\Debug\Core\NAudioUWPApp.exe">
+    <AppxPackagedFile Include="C:\Users\ckahrs\Documents\GitHub\NAudioMicUWPApp\NAudioUWPApp\bin\x86\Debug\Core\NAudioUWPApp.exe">
       <PackagePath>NAudioUWPApp.exe</PackagePath>
-      <Modified>2018-01-02T13:29:03.041</Modified>
+      <Modified>2018-01-02T15:56:44.745</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
