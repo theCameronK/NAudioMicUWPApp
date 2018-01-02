@@ -1,0 +1,2 @@
+MainPackage=C:\Users\ckahrs\source\repos\NAudioUWPApp\NAudioUWPApp\bin\ARM\Debug\NAudioUWPApp_1.0.3.0_ARM_Debug.appx
+SymbolPackage=C:\Users\ckahrs\source\repos\NAudioUWPApp\NAudioUWPApp\AppPackages\NAudioUWPApp_1.0.3.0_Debug_Test\NAudioUWPApp_1.0.3.0_ARM_Debug.appxsym

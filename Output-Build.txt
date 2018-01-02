@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: NAudio_IoTBackgroundApp_MicVolumeLevel, Configuration: Debug x86 ------
+1>C:\Users\ckahrs\source\repos\NAudio_IoTBackgroundApp_MicVolumeLevel\NAudio_IoTBackgroundApp_MicVolumeLevel\StartupTask.cs(19,22,19,28): error WME1024: Type 'NAudio_IoTBackgroundApp_MicVolumeLevel.StartupTask' contains externally visible field 'System.Single NAudio_IoTBackgroundApp_MicVolumeLevel.StartupTask.bigMax'.  Fields can be exposed only by structures.
+1>C:\Users\ckahrs\source\repos\NAudio_IoTBackgroundApp_MicVolumeLevel\NAudio_IoTBackgroundApp_MicVolumeLevel\StartupTask.cs(19,22,19,28): error WME1024: Type 'NAudio_IoTBackgroundApp_MicVolumeLevel.StartupTask' contains externally visible field 'System.Single NAudio_IoTBackgroundApp_MicVolumeLevel.StartupTask.bigMax'.  Fields can be exposed only by structures.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+========== Deploy: 0 succeeded, 0 failed, 0 skipped ==========
