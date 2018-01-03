@@ -15,12 +15,9 @@ namespace NAudioUWPApp
     /// </summary>
     public sealed partial class MainPage : Page
     {
-        //private IWavePlayer player;
         private WaveStream reader;
         private IWaveIn recorder;
         private MemoryStream recordStream;
-        //private IRandomAccessStream selectedStream;
-
         public float bigMax;
         public float biggerMax;
         public float biggerMin;
@@ -86,8 +83,6 @@ namespace NAudioUWPApp
             await progressBar2.Dispatcher.RunAsync(Windows.UI.Core.CoreDispatcherPriority.Low, () => { progressBar2.Value = biggerMedian; });
             await progressBar3.Dispatcher.RunAsync(Windows.UI.Core.CoreDispatcherPriority.Low, () => { progressBar3.Value = biggerMin; });
             await textBlock1.Dispatcher.RunAsync(Windows.UI.Core.CoreDispatcherPriority.Low, () => { textBlock1.Text = "Min           " + biggerMin + "\r\nMedian     " + biggerMedian + "     " + System.DateTime.Now + " " + System.DateTime.Now.Millisecond + "\r\nMax          " + biggerMax; });
-            //await textBlock1.Dispatcher.RunAsync(Windows.UI.Core.CoreDispatcherPriority.Low, () => { textBlock1.Text += "\r\nMedian     " + biggerMedian + "     " + System.DateTime.Now + " " + System.DateTime.Now.Millisecond; });
-            //await textBlock1.Dispatcher.RunAsync(Windows.UI.Core.CoreDispatcherPriority.Low, () => { textBlock1.Text += "\r\nMax          " + biggerMax; });
         }
     }
 }

@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\ckahrs\Documents\GitHub\NAudioMicUWPApp\NAudioUWPApp\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-03T15:32:19.271</Modified>
+      <Modified>2018-01-03T15:41:30.995</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\ckahrs\Documents\GitHub\NAudioMicUWPApp\NAudioUWPApp\bin\x86\Debug\NAudioUWPApp.exe">
       <PackagePath>entrypoint\NAudioUWPApp.exe</PackagePath>
-      <Modified>2018-01-03T15:32:17.989</Modified>
+      <Modified>2018-01-03T15:41:30.749</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ckahrs\.nuget\packages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -552,7 +552,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ckahrs\Documents\GitHub\NAudioMicUWPApp\NAudioUWPApp\bin\x86\Debug\Core\NAudioUWPApp.exe">
       <PackagePath>NAudioUWPApp.exe</PackagePath>
-      <Modified>2018-01-03T15:32:19.262</Modified>
+      <Modified>2018-01-03T15:41:30.992</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
