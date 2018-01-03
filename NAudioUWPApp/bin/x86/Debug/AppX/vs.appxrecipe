@@ -19,25 +19,25 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Users\ckahrs\Documents\GitHub\NAudioMicUWPApp\NAudioUWPApp\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>6FC3317D898DF4168A05FD3BB5AAF0390521F56610E11879EF9B6247BE0916B3</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>21b33a6d-ed3a-40da-bb59-a40a69b49479_1.0.7.0_x86__47shbzsee3cej</RegisteredPackageMoniker>
+    <RegisteredManifestChecksum>1BF9807B4AC07E683A4E68AE15E2665E72B263A72237E50270AB8F96CEFCEAFD</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>21b33a6d-ed3a-40da-bb59-a40a69b49479_1.1.8.0_x86__47shbzsee3cej</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>21b33a6d-ed3a-40da-bb59-a40a69b49479_47shbzsee3cej!App</RegisteredUserModeAppID>
     <RegisteredPackageID>21b33a6d-ed3a-40da-bb59-a40a69b49479</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=ckahrs</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.7.0</RegisteredVersion>
+    <RegisteredVersion>1.1.8.0</RegisteredVersion>
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\ckahrs\Documents\GitHub\NAudioMicUWPApp\NAudioUWPApp\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-02T15:56:44.754</Modified>
+      <Modified>2018-01-03T15:32:19.271</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\ckahrs\Documents\GitHub\NAudioMicUWPApp\NAudioUWPApp\bin\x86\Debug\NAudioUWPApp.exe">
       <PackagePath>entrypoint\NAudioUWPApp.exe</PackagePath>
-      <Modified>2018-01-02T15:56:43.446</Modified>
+      <Modified>2018-01-03T15:32:17.989</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ckahrs\.nuget\packages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -548,11 +548,11 @@
     <AppxPackagedFile Include="C:\Users\ckahrs\Documents\GitHub\NAudioMicUWPApp\NAudioUWPApp\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-02T15:56:44.429</Modified>
+      <Modified>2018-01-03T15:32:19.023</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ckahrs\Documents\GitHub\NAudioMicUWPApp\NAudioUWPApp\bin\x86\Debug\Core\NAudioUWPApp.exe">
       <PackagePath>NAudioUWPApp.exe</PackagePath>
-      <Modified>2018-01-02T15:56:44.745</Modified>
+      <Modified>2018-01-03T15:32:19.262</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
