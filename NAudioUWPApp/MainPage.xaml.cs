@@ -85,9 +85,9 @@ namespace NAudioUWPApp
             await progressBar1.Dispatcher.RunAsync(Windows.UI.Core.CoreDispatcherPriority.Low, () => { progressBar1.Value = biggerMax; });
             await progressBar2.Dispatcher.RunAsync(Windows.UI.Core.CoreDispatcherPriority.Low, () => { progressBar2.Value = biggerMedian; });
             await progressBar3.Dispatcher.RunAsync(Windows.UI.Core.CoreDispatcherPriority.Low, () => { progressBar3.Value = biggerMin; });
-            await textBlock1.Dispatcher.RunAsync(Windows.UI.Core.CoreDispatcherPriority.Low, () => { textBlock1.Text = "Min           " + biggerMin; });
-            await textBlock1.Dispatcher.RunAsync(Windows.UI.Core.CoreDispatcherPriority.Low, () => { textBlock1.Text += "\r\nMedian     " + biggerMedian + "     " + System.DateTime.Now + " " + System.DateTime.Now.Millisecond; });
-            await textBlock1.Dispatcher.RunAsync(Windows.UI.Core.CoreDispatcherPriority.Low, () => { textBlock1.Text += "\r\nMax          " + biggerMax; });
+            await textBlock1.Dispatcher.RunAsync(Windows.UI.Core.CoreDispatcherPriority.Low, () => { textBlock1.Text = "Min           " + biggerMin + "\r\nMedian     " + biggerMedian + "     " + System.DateTime.Now + " " + System.DateTime.Now.Millisecond + "\r\nMax          " + biggerMax; });
+            //await textBlock1.Dispatcher.RunAsync(Windows.UI.Core.CoreDispatcherPriority.Low, () => { textBlock1.Text += "\r\nMedian     " + biggerMedian + "     " + System.DateTime.Now + " " + System.DateTime.Now.Millisecond; });
+            //await textBlock1.Dispatcher.RunAsync(Windows.UI.Core.CoreDispatcherPriority.Low, () => { textBlock1.Text += "\r\nMax          " + biggerMax; });
         }
     }
 }
